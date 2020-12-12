@@ -1,3 +1,4 @@
+# Temporary repo for https://github.com/asyncLiz/rollup-plugin-minify-html-literals/issues/16
 1. `npm install`
 2. `npm run build`
 3. run a http server in dist directory (e.g. `npx http-server ./dist`)
